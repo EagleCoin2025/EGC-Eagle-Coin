@@ -1,5 +1,12 @@
 # EGC-Eagle-Coin
 
+https://bscscan.com/token/0xb9906e78B7ac656Caa58AA7CBfB62E1F0d612a88
+
+https://coinmarketcap.com/currencies/eaglecoin-live/
+
+https://www.coingecko.com/en/coins/eagle-coin
+
+
 
 Eagle Coin (EGC) – Tokenomics
 Coin Name: Eagle Coin
